@@ -11,9 +11,14 @@
       "text": "This is feedback #2 from json server"
     },
     {
-      "id": 3,
+      "text": "this is a new POST feedback",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "text": "this is a new item with 8 updated",
       "rating": 8,
-      "text": "This is feedback #3 from json server"
+      "id": 5
     }
   ]
 }
